@@ -1,7 +1,7 @@
 # Hotel-Management-System
 # Jar file of this project is attached with the project directory Named: HMS.jar
 
-This is a simple Hotel Management System which was built using Java Swing (Swing is a GUI widget toolkit for Java. It is part of Oracle's Java Foundation Classes – an API for providing a graphical user interface for Java programs.). This project Detects first time login and let user to set his Admin name and password. It stores Admin name and password in a test file so that it can utilize those information to varify a user.
+This is a simple Hotel Management System which was built using Java Swing (Swing is a GUI widget toolkit for Java. It is part of Oracle's Java Foundation Classes – an API for providing a graphical user interface for Java programs.). This project Detects first time login and let user to set his Admin name and password. It stores Admin name and password in a text file so that, it can utilize those information to varify a user.
 
 <img width="587" alt="Screen Shot 2022-10-20 at 1 57 58 PM" src="https://user-images.githubusercontent.com/71102354/196890588-d161ac87-676a-425b-946c-f111bab8dfd0.png">
 
